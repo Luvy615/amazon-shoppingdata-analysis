@@ -1,6 +1,7 @@
 # amazon-shoppingdata-analysis
 使用Python的Pandas对亚马逊购物产品信息进行数据清洗和分析，最后使用matplotlib将分析结果进行可视化展示。
 ## 使用方法
+[kaggle数据集链接]<https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset>
 ### 1.确保已安装必要的依赖库
 ```python
 pip install numpy pandas matplotlib
